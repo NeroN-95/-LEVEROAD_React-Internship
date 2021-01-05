@@ -1,0 +1,50 @@
+[
+  {
+    "products": {
+      "0": {
+        "id": 1,
+        "name": "SSamsung Galaxy S10 G973 Red",
+        "price": 12,
+        "discount": 5,
+        "discount_day": 4,
+        "image": "https://img.moyo.ua/img/products/4459/82_1500.jpg?1608304533"
+      },
+      "1": {
+        "id": 2,
+        "name": "Samsung Galaxy S20 G973 Red",
+        "price": 12000,
+        "discount": 5,
+        "discount_day": 4,
+        "image": "https://i.eldorado.ua//goods_images/1038946/6546629-1581491953.jpg"
+      },
+      "2": {
+        "id": 3,
+        "name": "Мобильный телефон Xiaomi Redmi Note 8 Pro",
+        "price": 5499,
+        "discount": 54,
+        "discount_day": 4,
+        "image": "https://i2.rozetka.ua/goods/14144524/xiaomi_redmi_note_8_pro_6_64gb_green_images_14144524201.jpg"
+      },
+      "3": {
+        "id": 4,
+        "name": "Мобильный телефон Apple iPhone 12 Pro Max 256GB Silver",
+        "price": 47999,
+        "discount": 54,
+        "discount_day": 4,
+        "image": "https://i8.rozetka.ua/goods/20300855/apple_iphone_12_pro_max_256gb_silver_images_20300855721.jpg"
+      },
+      "4": {
+        "id": 5,
+        "name": "Мобильный телефон Huawei Y6p 3/64GB Emerald Green",
+        "price": 4559,
+        "discount": 54,
+        "discount_day": 4,
+        "image": "https://i8.rozetka.ua/goods/18400370/huawei_51095kyt_images_18400370287.jpg"
+      }
+    }
+  }
+]
+
+
+
+
